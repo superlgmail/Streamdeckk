@@ -1,0 +1,10 @@
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\bin\Debug\Streamdeckk.exe.config
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\bin\Debug\Streamdeckk.exe
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\bin\Debug\Streamdeckk.pdb
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.csprojAssemblyReference.cache
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.Form1.resources
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.Properties.Resources.resources
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.csproj.GenerateResource.cache
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.exe
+C:\Users\Efe\source\repos\Streamdeckk\Streamdeckk\obj\Debug\Streamdeckk.pdb
